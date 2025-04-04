@@ -1,3 +1,3 @@
 # hw-06b
 
-[![<GITHUB_USERNAME>](https://circleci.com/gh/<GITHUB_USERNAME>/<REPO_NAME>.svg?style=svg)](https://app.circleci.com/pipelines/github/<GITHUB_USERNAME>/<REPO_NAME>?branch=main&filter=all)
+[![McCunney](https://circleci.com/gh/McCunney/hw-06b.svg?style=svg)](https://app.circleci.com/pipelines/github/McCunney/hw-06b?branch=main&filter=all)
